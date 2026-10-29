@@ -1,1 +1,1 @@
-date -Iseconds > teste-git.txt
+date -Iseconds
